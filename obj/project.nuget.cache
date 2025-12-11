@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A375yR2r1ZWheRv30LRLNcdqnXxJn2lTQSsfW11Cp0WEHh6P22eT5CtmRrdKnaPUJCywDJsGU4lms3ZLAjGjpA==",
+  "success": true,
+  "projectFilePath": "D:\\doaa\\Lec\\PL\\TextAnalyzer\\TextAnalyzer.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yassin\\.nuget\\packages\\fsharp.core\\8.0.102\\fsharp.core.8.0.102.nupkg.sha512"
+  ],
+  "logs": []
+}

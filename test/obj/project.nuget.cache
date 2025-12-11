@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z/yYj1V72w4JD/tSVwR6biTGn4tvNu6u3xAt1Il32fwUi+uOgzht7RGVhfC2R5mDKdJXuniBKRJaKK2yf6P1pg==",
+  "success": true,
+  "projectFilePath": "D:\\doaa\\Lec\\PL\\TextAnalyzer\\test\\TextAnalyzerTests.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yassin\\.nuget\\packages\\fsharp.core\\8.0.102\\fsharp.core.8.0.102.nupkg.sha512",
+    "C:\\Users\\yassin\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

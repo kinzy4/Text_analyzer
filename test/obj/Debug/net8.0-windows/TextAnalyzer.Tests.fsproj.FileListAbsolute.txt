@@ -1,0 +1,4 @@
+D:\doaa\Lec\PL\TextAnalyzer\test\obj\Debug\net8.0-windows\TextAnalyzer.Tests.fsproj.AssemblyReference.cache
+D:\doaa\Lec\PL\TextAnalyzer\test\obj\Debug\net8.0-windows\TextAnalyzer.Tests.AssemblyInfoInputs.cache
+D:\doaa\Lec\PL\TextAnalyzer\test\obj\Debug\net8.0-windows\TextAnalyzer.Tests.AssemblyInfo.fs
+D:\doaa\Lec\PL\TextAnalyzer\test\obj\Debug\net8.0-windows\TextAnalyzer.Tests.fsproj.CoreCompileInputs.cache

@@ -1,0 +1,24 @@
+{
+  "WordCount": 4,
+  "SentenceCount": 4,
+  "ParagraphCount": 1,
+  "TopWords": [
+    {
+      "Item1": "doaa",
+      "Item2": 1
+    },
+    {
+      "Item1": "alaa",
+      "Item2": 1
+    },
+    {
+      "Item1": "asmaa",
+      "Item2": 1
+    },
+    {
+      "Item1": "salem",
+      "Item2": 1
+    }
+  ],
+  "AverageSentenceLength": 1.0
+}

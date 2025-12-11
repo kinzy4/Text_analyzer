@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="ManualTests.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+      <ProjectReference Include="..\src\TextAnalyzer.fsproj" />
+  </ItemGroup>
+
+</Project>
