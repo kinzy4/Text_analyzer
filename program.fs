@@ -29,7 +29,7 @@ let main argv =
             AverageSentenceLength = averageSentenceLength (Array.length words) (Array.length sentences)
         }
 
-    // Start UI
+    // Start UI with web option
     UI.startUI analyze
 
     0
