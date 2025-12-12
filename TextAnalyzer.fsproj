@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+<ItemGroup>
+  <Compile Include="Types.fs" />
+  <Compile Include="Tokenization.fs" />
+  <Compile Include="Metrics.fs" />
+  <Compile Include="Frequency.fs" />
+  <Compile Include="InputHandling.fs" />
+  <Compile Include="DB.fs" />
+  <Compile Include="FileIO.fs" />
+  <Compile Include="UI.fs" />
+  <Compile Include="Program.fs" />
+</ItemGroup>
+<ItemGroup>
+  <PackageReference Include="Avalonia" Version="11.3.9" />
+  <PackageReference Include="Avalonia.Controls.DataGrid" Version="11.3.9" />
+  <PackageReference Include="Avalonia.Desktop" Version="11.3.9" />
+  <PackageReference Include="Avalonia.ReactiveUI" Version="11.3.8" />
+  <PackageReference Include="LibGit2Sharp" Version="0.31.0" />
+  <PackageReference Include="MessageBox.Avalonia" Version="1.0.0" />
+  <PackageReference Include="Microsoft.Data.Sqlite" Version="10.0.0" />
+  <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+</ItemGroup>
+</Project>
