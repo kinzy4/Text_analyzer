@@ -33,8 +33,3 @@ module ManualTests =
         let top = topWords words2 2
         if top = [|("apple",3);("banana",2)|] then printfn "Top words test passed"
         else printfn "Top words test FAILED"
-
-[<EntryPoint>]
-let main argv =
-    ManualTests.runTests()
-    0
