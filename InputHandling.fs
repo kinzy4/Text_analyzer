@@ -6,7 +6,7 @@ module InputHandling =
 
     let loadTextFromFile (path: string) =
         if File.Exists path then
-            File.ReadAllText path
+            File.ReadAllText (path, System.Text.Encoding.UTF8)
         else
             failwith "File not found"
 
@@ -19,3 +19,4 @@ module InputHandling =
             else
                 loop (line::acc)
         loop []
+
